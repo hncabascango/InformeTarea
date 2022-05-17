@@ -43,6 +43,8 @@ CAPÍTULO 1
 
 ![g](https://user-images.githubusercontent.com/105606339/168837515-58bbd543-3d47-415f-837b-9cab27f17732.jpg)
 
+![h](https://user-images.githubusercontent.com/105606339/168869752-8fb8787e-e2a6-4480-8271-51da5bf48d95.jpg)
+
 
 
 **4. VIDEO**
@@ -57,8 +59,12 @@ CAPÍTULO 1
 **6. BIBLIOGRAFÍA**
 
 CEM. (13 de septiembre de 2021). Obtenido de https://www.cem.es/es/cem/metrologia/sistema-internacional-unidades-si
+
+
 Floyd, T. L. (2007). Principios de circuitos eléctricos. México: PERSON EDUCATION.
+
 McGrawHill. (1 de abril de 2011). Obtenido de https://www.mheducation.es/bcv/guide/capitulo/8448177894.pdf
+
 mineduc. (03 de marzo de 2018). Obtenido de https://www.mineduc.gob.gt/DIGECADE/documents/Telesecundaria/Recursos%20Digitales/1o%20Recursos%20Digitales%20TS%20licencia%20CC%20BY-SA%203.0/01%20CIENCIAS%20NATURALES/U9%20pp%20188%20Notaci%C3%B3n_cient%C3%ADfica.pdf
 
 
