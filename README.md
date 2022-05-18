@@ -29,7 +29,7 @@ CAPÍTULO 2: VOLTAJE, CORRIENTE Y RESISTENCIA
 
 **CAPÍTULO 1**
 
-**SECCIÓN 1-2 NOTACIÓN CIENTÍFICA **
+**SECCIÓN 1-2 NOTACIÓN CIENTÍFICA**
 
 2. Exprese cada número fraccionario en notación científica:
 
@@ -54,7 +54,7 @@ a) 0.0002
 
 b) 0.6
 
-![image](https://user-images.githubusercontent.com/105606339/169168256-bc7916a6-3072-485e-8a12-ca8faf38bbff.png)
+![image](https://user-images.githubusercontent.com/105606339/169168256-bc7916a6-3072-485e-8a12-ca8faf38bbff.png
 
 c) 7.8 x 〖10^(-2)
 
