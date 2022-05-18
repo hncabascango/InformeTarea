@@ -27,27 +27,28 @@ CAPÍTULO 2: VOLTAJE, CORRIENTE Y RESISTENCIA
 
 **3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
-CAPÍTULO 1
+**CAPÍTULO 1**
 
-![a](https://user-images.githubusercontent.com/105606339/168827118-b6e1db26-4251-4a75-86a3-205770812d7c.jpg)
+**SECCIÓN 1-2 NOTACIÓN CIENTÍFICA **
 
-![B](https://user-images.githubusercontent.com/105606339/168828767-997e8bbf-7d9b-4291-8041-1138c60e582a.jpg)
+2. Exprese cada número fraccionario en notación científica:
+a) 1/500
+![image](https://user-images.githubusercontent.com/105606339/169166861-23a5856f-b879-4d6a-823d-8b816626e2cd.png)
 
-![c](https://user-images.githubusercontent.com/105606339/168832909-6abb0a17-8474-404a-9ac1-d5a6030a7ba2.jpg)
+b)1/2000
+![image](https://user-images.githubusercontent.com/105606339/169166968-34101576-986a-48d6-9d2d-5c598cd48f6d.png)
 
-![D](https://user-images.githubusercontent.com/105606339/168835546-66201ad2-4da0-48c0-9426-a920d05e8fee.jpg)
+c)1/5,000,000
+![image](https://user-images.githubusercontent.com/105606339/169167032-7373abe3-8011-48c5-91ad-65e17e063a6d.png)
 
-![e](https://user-images.githubusercontent.com/105606339/168836569-2fbfca88-a1c0-428d-9a4f-93e89a7b47bf.jpg)
+4.Exprese cada uno de los números siguientes en notación científica:
+a) 0.0002
+![image](https://user-images.githubusercontent.com/105606339/169167124-bc11f5f0-4f73-40b8-bf3a-5e965aa3354c.png)
 
-![f](https://user-images.githubusercontent.com/105606339/168837157-27483423-fb95-4666-9e2e-49b716271a03.jpg)
+b) 0.6
+![image](https://user-images.githubusercontent.com/105606339/169167172-b72042e2-a82f-495c-8bf5-6254ab550335.png)
 
-![g](https://user-images.githubusercontent.com/105606339/168837515-58bbd543-3d47-415f-837b-9cab27f17732.jpg)
-
-![h](https://user-images.githubusercontent.com/105606339/168869752-8fb8787e-e2a6-4480-8271-51da5bf48d95.jpg)
-
-
-
-**4. VIDEO**
+c) 7.8 x 〖10〗^(-2)  
 
 
 **5. CONCLUSIONES**
