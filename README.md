@@ -6,7 +6,7 @@ OBJETIVO GENERSL
 
 Adquirir conocimientos básicos acerca de las cantidades y unidades de medida, así como también la definición y aplicación de voltaje, corriente y resistencia que nos permitan la correcta resolución de cualquier tipo de problema relacionado con los temas mencionados.
 
-OBJETIVOS ESPECÍFICOS
+OBJETIVOS ESPECÍFICOS 
 
 - Emplear notación científica y notación de ingeniería para representar cantidades.
 - Desarrollar operaciones matemáticas con cantidades expresadas en notación científica y en notación de ingeniería.
